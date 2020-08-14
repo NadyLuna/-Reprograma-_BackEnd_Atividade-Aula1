@@ -20,5 +20,12 @@
 <p> Confira os frameworks mais utilizados para Back-End, conforme pesquisa realizada entre programadores.<p.>
 
 1. ### Spring
-![Spring](img/spring framework.jpg)
+![Spring](img/spring_framework.jpg)
 
+Com uma estrutura Model-View-Controller em Java, esse framework possui muitos projetos que tornam o seu desempenho ainda maior. Indicado para quem domina a linguagem JAVA.
+
+
+2. ### Express
+![Express](img/express_framework.jpg)
+
+esse framework tem se tornando um dos mais famosos entre os desenvolvedores web, devido ao Node.js e é baseado em estruturas mínimas
