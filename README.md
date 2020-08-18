@@ -2,16 +2,16 @@
 
 ## Aula 1- Versionamento 
 
-### Meu Exercício
+
 ---
 # Frameworks para Back-End :computer:
 
 ## O que é um Framework?
 
 
- O framework é um pacote de códigos prontos que podem ser utilizados no desenvolvimento de sites. A proposta de uso dessa ferramenta é aplicar funcionalidades, comandos e estruturas já prontas para garantir qualidade no projeto e produtividade.
+ <p> O Framework é um pacote de códigos prontos que podem ser utilizados no desenvolvimento de sites. A proposta de uso dessa ferramenta é aplicar funcionalidades, comandos e estruturas já prontas para garantir qualidade no projeto e produtividade.<p>
 
-### :floppy_disk: <>``` Frameworks não são Banco de dados ``` <>
+###  ``` Frameworks não são Banco de dados ``` :floppy_disk:
 
 
 <p> Frameworks não são banco de dados, na verdade, na verdade seu uso é pontual e voltado para o processo de criação do site.<p>
@@ -20,15 +20,17 @@
 
 <p> Confira os frameworks mais utilizados para Back-End, conforme pesquisa realizada entre programadores.<p.>
 
-1. ### **Spring**
-![Spring](img/spring_framework.jpg)
+
+
+1. ## **Spring**
+![Spring](img/Spring_frameworks..jpg)
 
 Com uma estrutura Model-View-Controller em Java, esse framework possui muitos projetos que tornam o seu desempenho ainda maior. Indicado para quem domina a linguagem JAVA.
 
 ---
-2. ### **Express**
+2. ## **Express**
 
-![Express](img/express-facebook-share.png )
+![Express](img/Express_frameworks.png )
 
 esse framework tem se tornando um dos mais famosos entre os desenvolvedores web, devido ao Node.js e é baseado em estruturas mínimas, rápidas e que são postuladas, além de suportar *API REST*
 
@@ -38,8 +40,8 @@ esse framework tem se tornando um dos mais famosos entre os desenvolvedores web,
 - IBM;
 - UBER.
 ----
-3. ### **Django**
-![Django](img/django_framework.jpg)
+3. ## **Django**
+![Django](img/Django_frameworks.jpg)
 
 
 Utilizando Python que é uma linguagem famosa para quem trabalha com BI e Analytics, esse framework possui uma estrutura Model-View-Template.
@@ -54,8 +56,8 @@ Utilizando Python que é uma linguagem famosa para quem trabalha com BI e Analyt
  - Conjuntos de recursos que incluem autenticação e mensagens, por exemplo.
 
 ----
- 4. ### **Rails**
-![Rails](img/rails_framework.jpg)
+ 4. ## **Rails**
+![Rails](img/Rails_frameworks.png)
 
 
 Possuindo uma estrutura Model-View-Controller que usa Ruby, é indicado para iniciantes por se tratar de um modelo de framework amigável, ele possui dependências de bibliotecas que ampliam as funcionalidades das aplicações, permitindo um desenvolvimento mais rápido e eficiente.
