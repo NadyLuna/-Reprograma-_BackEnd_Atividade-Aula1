@@ -57,7 +57,7 @@ Utilizando Python que é uma linguagem famosa para quem trabalha com BI e Analyt
 
 ----
  4. ## **Rails**
-![Rails](img/Rails_frameworks.png)
+![Rails](img/Rails_frameworks.jpg)
 
 
 Possuindo uma estrutura Model-View-Controller que usa Ruby, é indicado para iniciantes por se tratar de um modelo de framework amigável, ele possui dependências de bibliotecas que ampliam as funcionalidades das aplicações, permitindo um desenvolvimento mais rápido e eficiente.
