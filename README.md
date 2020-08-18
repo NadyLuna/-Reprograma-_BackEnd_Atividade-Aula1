@@ -21,7 +21,7 @@
 <p> Confira os frameworks mais utilizados para Back-End, conforme pesquisa realizada entre programadores.<p.>
 
 1. ### **Spring**
-![Spring](img/Spring_frameworks.jpg)
+![Spring](img/Spring_frameworks..jpg)
 
 Com uma estrutura Model-View-Controller em Java, esse framework possui muitos projetos que tornam o seu desempenho ainda maior. Indicado para quem domina a linguagem JAVA.
 
@@ -55,7 +55,7 @@ Utilizando Python que é uma linguagem famosa para quem trabalha com BI e Analyt
 
 ----
  4. ### **Rails**
-![Rails](img/Rails_frameworks.jpg)
+![Rails](img/Rails_frameworks.png)
 
 
 Possuindo uma estrutura Model-View-Controller que usa Ruby, é indicado para iniciantes por se tratar de um modelo de framework amigável, ele possui dependências de bibliotecas que ampliam as funcionalidades das aplicações, permitindo um desenvolvimento mais rápido e eficiente.
